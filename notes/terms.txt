@@ -1,0 +1,28 @@
+Chapter 2
+
+	• Scanning/lexing/Lexical analysis
+		○ Token
+	• Parsing
+		○ Parser
+	• Syntax trees/ ASTs
+	• Binding/Resolution
+	• Identifier and scope
+	• Attributes (for a node in the tree)
+	• Symbol table
+	• Intermediate representation (IR)
+		○ Control flow graph
+		○ Static single-assignment
+		○ Three-address code
+	• Constant folding
+	• Death code elimination
+
+	• Code gen
+	• P-code (Portable code) aka bytecode
+	• Process virtual machines
+	• Garbage collector
+	• The runtime
+	• Single pass compilers (Syntax directed translations
+	• Tree walk interpreter
+	• Transpilers (source-to-source compiler/transcompiler)
+	• JIT compilers
+
