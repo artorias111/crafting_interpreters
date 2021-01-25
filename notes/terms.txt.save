@@ -24,16 +24,5 @@ Chapter 2
 	• Single pass compilers (Syntax directed translations
 	• Tree walk interpreter
 	• Transpilers (source-to-source compiler/transcompiler)
-	• JIT compilers
+JIT compilers		
 
-
-
-Chapter 3
-
-	• Reference counting
-	• Tracing garbage collection (Garbage collection)
-	• Closure function
-	• Classes vs prototypes
-	• Instance
-	• Instantiation and initialization 
-	• Pure object oriented programming language
