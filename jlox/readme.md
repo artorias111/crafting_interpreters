@@ -4,4 +4,14 @@ Also trying to relearn some Java I learnt 5 years ago in high school while worki
 
 Features of the interpreter:
 	tree-walk interpreter
+	Dynamically typed
 	
+	
+	
+	4 Data types:
+		Booleans
+		Numbers
+		Strings
+		Nil
+
+		
