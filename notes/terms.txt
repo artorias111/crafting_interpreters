@@ -1,5 +1,4 @@
 Chapter 2
-
 	• Scanning/lexing/Lexical analysis
 		○ Token
 	• Parsing
@@ -29,7 +28,6 @@ Chapter 2
 
 
 Chapter 3
-
 	• Reference counting
 	• Tracing garbage collection (Garbage collection)
 	• Closure function
@@ -37,3 +35,14 @@ Chapter 3
 	• Instance
 	• Instantiation and initialization 
 	• Pure object oriented programming language
+
+
+Chapter 4
+	• Scanning aka lexing/lexical analysis
+	• Tokens
+	• Error handling
+	• Lexeme
+	• Regexes for lexical grammar
+	• Regular language
+	• Lookahead
+	• Maximal munch
