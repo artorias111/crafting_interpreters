@@ -46,3 +46,4 @@ Chapter 4
 	• Regular language
 	• Lookahead
 	• Maximal munch
+	hmm
